@@ -1,5 +1,13 @@
-# 💫 About Me:
-Proficient in Dart and Flutter for cross-platform mobile development, emphasizing clean, maintainable, and scalable code with GetX state management and MVC architecture.<br>Developed and maintained Android applications using Kotlin, adhering to industry best practices.<br>Web Development using React Framework.<br>Expertly integrated RESTful APIs for backend communication and developed custom Python, PHP, and SQL APIs for scalable app functionalities.<br>Leveraged Firebase for comprehensive backend services, including authentication, real-time databases, and cloud functions.<br>Skilled in UI/UX design with Figma for intuitive prototypes and user interfaces, and experienced as a team lead overseeing the development lifecycle.
+# 💫 I'm Ali Haidar
+I am a Software Team Lead at Lahore University of Management Sciences (LUMS), working with Enfo.ai, where I lead the design and development of scalable, high-performance digital solutions.
+
+As a Senior Flutter Developer, I specialize in cross-platform mobile application development using Dart and Flutter, focusing on clean architecture, maintainable code structures, and scalable systems built with MVC principles and GetX state management. I also develop native Android applications using Kotlin, ensuring adherence to modern development standards and best practices.
+
+On the web side, I build responsive, efficient applications with React.js, integrating robust RESTful APIs to ensure seamless communication between frontend and backend systems. My backend expertise includes designing and developing custom APIs using Python and PHP, along with a strong proficiency in SQL for database architecture, optimization, and data management.
+
+I leverage Firebase services—including Authentication, Realtime Database, Firestore, and Cloud Functions—to build secure, scalable cloud-based infrastructure. Additionally, I contribute to UI/UX design using Figma, translating product requirements into intuitive and user-centered interfaces.
+
+Beyond development, I oversee the full software development lifecycle, conduct code reviews, define system architecture, and lead teams to deliver reliable, scalable, and data-driven solutions.
 
 
 ## 🌐 Socials:
