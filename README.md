@@ -1,26 +1,78 @@
-# 💫 I'm Ali Haidar
-I am a Software Team Lead at Lahore University of Management Sciences (LUMS), working with Enfo.ai, where I lead the design and development of scalable, high-performance digital solutions.
+# 💫 Hi, I'm Ali Haidar
 
-As a Senior Flutter Developer, I specialize in cross-platform mobile application development using Dart and Flutter, focusing on clean architecture, maintainable code structures, and scalable systems built with MVC principles and GetX state management. I also develop native Android applications using Kotlin, ensuring adherence to modern development standards and best practices.
-
-On the web side, I build responsive, efficient applications with React.js, integrating robust RESTful APIs to ensure seamless communication between frontend and backend systems. My backend expertise includes designing and developing custom APIs using Python and PHP, along with a strong proficiency in SQL for database architecture, optimization, and data management.
-
-I leverage Firebase services—including Authentication, Realtime Database, Firestore, and Cloud Functions—to build secure, scalable cloud-based infrastructure. Additionally, I contribute to UI/UX design using Figma, translating product requirements into intuitive and user-centered interfaces.
-
-Beyond development, I oversee the full software development lifecycle, conduct code reviews, define system architecture, and lead teams to deliver reliable, scalable, and data-driven solutions.
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr_aleey_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-haidar-057b13230) 
-
-# 💻 Tech Stack:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Mosquitto](https://img.shields.io/badge/mosquitto-%233C5280.svg?style=for-the-badge&logo=eclipsemosquitto&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mraleey&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mraleey&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mraleey&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I am a **Software Team Lead & Full Stack AI Developer** at **Lahore University of Management Sciences (LUMS)**, working in collaboration with **Enfo.ai**, where I lead the design and delivery of scalable, high-performance digital solutions and AI-driven platforms.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mraleey&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 📌 About Me
+- 🤖 **Generative AI & Agentic Systems**: Architecting multi-agent workflows and autonomous reasoning chains using **LangGraph** and **LangChain**. Building high-precision **Retrieval-Augmented Generation (RAG)** pipelines and automated model evaluation suites (**Evals**).
+- 📈 **Data Science & Forecasting**: Implementing predictive modeling, time-series forecasting, and machine learning analytics for real-world energy, utility, and IoT data streams.
+- 📱 **Mobile Application Engineering**: Senior **Flutter & Dart** specialist focused on clean architecture, scalable codebases, and offline-first mobile systems. Experienced in cross-platform **React Native**, native **Android (Kotlin)**, and **iOS Development**.
+- ⚡ **Backend & Distributed APIs**: Developing high-throughput asynchronous services and RESTful APIs with **FastAPI** and **Python**, with real-time telemetry streaming over **WebSockets** and **MQTT**.
+- 🗄️ **Databases & In-Memory Caching**: Designing resilient relational schemas, indexing strategies, and caching layers with **PostgreSQL**, **MySQL**, and **Redis**.
+- 🛠️ **DevOps & Technical Leadership**: Managing the end-to-end SDLC, code reviews, automated **CI/CD pipelines**, and repository governance on **GitHub**.
+
+---
+
+### 🚀 Featured Projects
+- 📊 **[Enviz](https://play.google.com/store/apps/details?id=com.enfo.highcharts_demo&pcampaignid=web_share)** – High-performance cross-platform data visualization mobile application built with Flutter, featuring interactive charting pipelines and real-time telemetry feeds.
+- ☀️ **CM Punjab Monitoring** – Government solar telemetry and analytics platform; features a Flutter mobile app for IoT smart meter provisioning, real-time data ingestion via MQTT, and time-series solar generation forecasting.
+- 💡 **BijliPoint** – Smart utility analytics and electricity billing platform featuring dynamic tariff calculations, peak-hour alert webhooks, and predictive consumption forecasting models.
+- 📡 **Neubolt** – Connected IoT hardware and mobile telemetry platform providing real-time device ingestion, diagnostics, and automated alerts over low-latency WebSockets.
+
+---
+
+## 🌐 Connect With Me:
+[[https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white]](https://linkedin.com/in/ali-haidar-057b13230)
+[[https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white]](https://github.com/mraleey)
+[[https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white]](https://instagram.com/mr_aleey_)
+[[https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white]](mailto:mraleeyrajput@gmail.com)
+
+---
+
+## 💻 Tech Stack:
+
+### 🤖 AI, Data Science & Backend
+[https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54]
+[https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi]
+[https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white]
+[https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white]
+[https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white]
+[https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white]
+[https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white]
+[https://img.shields.io/badge/mosquitto-%233C5280.svg?style=for-the-badge&logo=eclipsemosquitto&logoColor=white]
+
+### 📱 Mobile & Frontend
+[https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white]
+[https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white]
+[https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB]
+[https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB]
+[https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white]
+[https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E]
+[https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white]
+[https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white]
+
+### 🗄️ Databases & Caching
+[https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white]
+[https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white]
+[https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white]
+[https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase]
+[https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white]
+
+### 🛠️ DevOps, Cloud & Collaboration
+[https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white]
+[https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white]
+[https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white]
+[https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white]
+[https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white]
+[https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white]
+
+---
+
+# 📊 GitHub Stats:
+[https://github-readme-stats.vercel.app/api?username=mraleey&theme=dark&hide_border=false&include_all_commits=false&count_private=false]<br/>
+[https://nirzak-streak-stats.vercel.app/?user=mraleey&theme=dark&hide_border=false]<br/>
+[https://github-readme-stats.vercel.app/api/top-langs/?username=mraleey&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact]
+
+---
+[[https://visitcount.itsvg.in/api?id=mraleey&icon=0&color=0]](https://visitcount.itsvg.in)
