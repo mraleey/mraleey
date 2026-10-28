@@ -14,6 +14,24 @@ I am a **Software Team Lead & Full Stack AI Developer** at **Lahore University o
 
 ---
 
+### 🧠 AI Engineering Skills
+
+#### Generative AI
+- **Prompt & context engineering**: System prompts, few-shot patterns, structured outputs, and output parsing for reliable generation.
+- **Retrieval-Augmented Generation**: Document chunking, embeddings, hybrid retrieval, reranking, and grounded answers over private data.
+- **LLM application design**: Streaming responses, token budgets, and latency and cost control inside production **Python** services.
+- **Evaluation**: Golden datasets, regression **evals**, and faithfulness and hallucination checks before a model change ships.
+- **Classical ML alongside LLMs**: Feature work, forecasting, and model training with **pandas**, **NumPy**, and **TensorFlow**.
+
+#### Agentic AI
+- **Multi-agent orchestration**: Graph-based workflows and autonomous reasoning chains with **LangGraph** and **LangChain**.
+- **Tool use**: Function calling, typed tool schemas, and controlled execution of APIs and internal services.
+- **State & memory**: Short-term working memory, durable agent state, and checkpointed runs that can resume after failure.
+- **Human-in-the-loop**: Review gates, retries, and fallbacks so agents stay inside an approved action boundary.
+- **Agent quality**: Tracing, step-level **evals**, and failure analysis for tool selection, planning, and task completion.
+
+---
+
 ### 🚀 Featured Projects
 - 📊 **[Enviz](https://play.google.com/store/apps/details?id=com.enfo.highcharts_demo&pcampaignid=web_share)** – High-performance cross-platform data visualization mobile application built with Flutter, featuring interactive charting pipelines and real-time telemetry feeds.
 - ☀️ **CM Punjab Monitoring** – Government solar telemetry and analytics platform; features a Flutter mobile app for IoT smart meter provisioning, real-time data ingestion via MQTT, and time-series solar generation forecasting.
